@@ -1,0 +1,348 @@
+body{
+  
+    background-image: url(wallpaperflare.com_wallpaper.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+#d1{
+    opacity: 0.5;
+    width: 90%;
+    height: 900%;
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+#h11{
+    position: absolute;
+    font-size: xx-large;
+    color:  white;
+font-family:Arial, Helvetica, sans-serif;
+left: 50px;
+animation-delay: 0.5s;
+animation: 0.5s slide,ss linear infinite  ;
+/*text-shadow: 
+0 0 1px rgb(67, 18, 202),
+0 0 1px rgb(106, 21, 218),
+0 0 10px rgb(76, 14, 221),
+0 0 10px rgb(96, 12, 230),
+0 0 1px rgb(69, 9, 236)
+;*/
+
+}
+/*@keyframes slide{
+from {
+left: -10px;
+
+}
+
+to{
+    left: 50px;
+    text-shadow: 
+    0 0 1px rgb(202, 18, 171),
+    0 0 1px rgb(218, 21, 185),
+    0 0 10px rgb(221, 14, 187),
+    0 0 10px rgb(230, 12, 121),
+    0 0 1px rgb(236, 9, 199)
+    ;
+}
+
+}*/
+/*@keyframes ss{
+    {
+        text-shadow: 
+        0 0 1px rgb(202, 18, 171),
+        0 0 1px rgb(218, 21, 185),
+        0 0 10px rgb(221, 14, 187),
+        0 0 10px rgb(230, 12, 121),
+        0 0 1px rgb(236, 9, 199)
+        ;
+      }
+      {
+
+        text-shadow: 
+        0 0 1px rgb(202, 18, 171),
+        0 0 1px rgb(218, 21, 185),
+        0 0 10px rgb(221, 14, 187),
+        0 0 10px rgb(230, 12, 121),
+        0 0 1px rgb(236, 9, 199)
+        ;
+
+            }
+      {
+        text-shadow: 
+0 0 1px rgb(67, 18, 202),
+0 0 1px rgb(106, 21, 218),
+0 0 10px rgb(76, 14, 221),
+0 0 10px rgb(96, 12, 230),
+0 0 1px rgb(69, 9, 236)
+;
+      }
+      {
+        text-shadow: 
+        0 0 1px rgb(67, 18, 202),
+        0 0 1px rgb(106, 21, 218),
+        0 0 10px rgb(76, 14, 221),
+        0 0 10px rgb(96, 12, 230),
+        0 0 1px rgb(69, 9, 236)
+        ;
+      }
+      80% {
+        text-shadow: 
+        0 0 1px rgb(202, 18, 171),
+        0 0 1px rgb(218, 21, 185),
+        0 0 10px rgb(221, 14, 187),
+        0 0 10px rgb(230, 12, 121),
+        0 0 1px rgb(236, 9, 199)
+        ;
+
+      }
+      {
+        text-shadow: 
+        0 0 1px rgb(202, 18, 171),
+        0 0 1px rgb(218, 21, 185),
+        0 0 10px rgb(221, 14, 187),
+        0 0 10px rgb(230, 12, 121),
+        0 0 1px rgb(236, 9, 199)
+        ;
+
+      }
+}
+#b1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: antiquewhite;
+    font-size: x-large;
+    position: absolute;
+    top: 50px;
+    left: 30px;
+    text-shadow: 
+    0 0 1px rgb(144, 18, 202),
+    0 0 1px rgb(156, 21, 218),
+    0 0 10px rgb(128, 14, 221),
+    0 0 10px rgb(179, 12, 230),
+    0 0 1px rgb(183, 9, 236)
+    ;
+}
+#d2{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+top: 300px;
+left: 230px;
+}
+#im1{
+    border: 2px solid rgba(15, 200, 224, 0.842);
+ display: inline-block;
+ box-shadow: 
+ 0 0 1px rgb(144, 18, 202),
+ 0 0 1px rgb(106, 21, 218),
+ 0 0 10px rgb(121, 14, 221),
+ 0 0 10px rgb(143, 12, 230),
+ 0 0 1px rgb(209, 9, 236)
+ ;
+ 
+
+}*/
+#b2{
+    display: flex;
+   position: absolute;
+    font-size: x-large;
+    color: rgb(245, 247, 248);
+    /*text-shadow:  0 0 10px rgb(23, 210, 216),
+    0 0 10px rgb(19, 221, 211),
+    0 0 10px rgb(35, 182, 162),
+    0 0 10px rgb(25, 141, 141),
+    0 0 10px rgb(30, 231, 231)
+    
+    ;*/
+font-family: Arial, Helvetica, sans-serif;
+top: 220px;
+left: 500px;
+text-shadow: 
+0 0 1px rgb(144, 18, 202),
+0 0 1px rgb(156, 21, 218),
+0 0 10px rgb(128, 14, 221),
+0 0 10px rgb(179, 12, 230),
+0 0 1px rgb(183, 9, 236)
+;
+
+
+}
+/*#d3{
+    font-size: large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+    display: grid;
+    width: 200px;
+    height: 200px;
+    background;
+    border:1px solid #00bcd4;
+justify-content: center;
+align-items: center;
+align-content: center;
+padding: 20px;
+box-sizing: border-box;
+
+justify-items: center;
+}
+#d4{
+    position:absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:200px;
+    top:650px;
+    left: 150px;
+    
+}*/
+#d3{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    position: relative;
+    justify-items: center;
+  color: antiquewhite;
+    width: 200px;
+    height: 200px;
+background-color:rgb(175, 175, 169,0.5);
+font-size: large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid #0dc6d3;
+    display: grid;
+
+}
+#d4{
+    position:absolute;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:200px;
+    top:650px;
+    left: 150px;
+     
+}
+#d3::before{
+    content: "";
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background-color:#fff;
+    z-index: -1;
+   filter: blur(60px);
+}
+#d3:after{
+    content: "";
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    
+    background:#fff;
+    z-index: -2;
+    filter: blur(60px);
+}
+#d3::before,
+#d3::after{
+    background: linear-gradient(235deg,#0d3bd3,#060c12,#990dda);
+}
+#b2::before{
+    content: "";
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    background-color:#fff;
+    z-index: -1;
+   filter: blur(60px);
+}
+#b2::after{
+    content: "";
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    right: -2px;
+    bottom: -2px;
+    
+    background:#fff;
+    z-index: -2;
+    filter: blur(60px);
+}
+#b2::before,
+#b2::after{
+    background: linear-gradient(235deg,#0d3bd3,#060c12,#990dda);
+}
+.addText {
+    position: absolute;
+    display:inline-block; /* inline-block so we can set a width */
+    width:0;
+    white-space:nowrap; /* keep text one line */
+    direction:rtl; /* change direction so the text overflow on the left */
+    color: rgba(240, 232, 232,);
+    transition: .5s;
+    transform: translateX(20px); /* put the value you want here */
+    pointer-events:none; /* to avoid the hover on the text, remove to see the difference */}
+
+#d7{
+        display: flex;
+justify-content: right;
+margin-right: 20px;
+padding: 20px;
+gap: 15px;
+}
+#bt1{
+
+background: fixed;
+border-left: 2px solid rgb(32, 53, 175) ;
+color: #fff;
+border-right: 2px solid rgb(14, 91, 192) ;
+border-top: none;
+border-bottom: none;
+text-shadow: 
+0 0 1px rgb(202, 18, 171),
+0 0 1px rgb(218, 21, 185),
+0 0 10px rgb(221, 14, 187),
+0 0 10px rgb(230, 12, 121),
+0 0 1px rgb(236, 9, 199)
+;
+padding: 2px;
+font-size: large;
+
+}
+#bt1:hover{
+transform: scale(1.2);
+/*text-shadow: 
+0 0 1px rgb(18, 21, 202),
+0 0 1px rgb(34, 21, 218),
+0 0 10px rgb(69, 14, 221),
+0 0 10px rgb(16, 12, 230),
+0 0 1px rgb(77, 9, 236)
+;*/
+text-shadow:-10px 0 10px 0 rgb(136, 46, 121) , 0 -10px  10px  0 rgb(15, 214, 204) ,10px 0 10px 0 rgb(22, 166, 202),0 10px  10px 0 rgb(136, 46, 121) ;
+border-right: 2px solid rgb(221, 12, 221) ;
+border-left: 2px solid rgb(209, 21, 216) ;
+font-family: Arial, Helvetica, sans-serif;
+cursor: pointer;
+transition: 0.5s;
+}
+
+#im1:hover{
+transform: scale(1.1);
+transition: 0.5s;
+}
+#d2:hover,
+.addText:hover{
+    opacity: 0.8;
+    color: #fff;
+}
+a{
+    display: none;
+}
